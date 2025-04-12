@@ -6,6 +6,11 @@
  * 
  * 데이터 추출량에 따라 서버 딜레이 발생 가능성이 있음으로 timeout 조정이 필요합니다.
  * csv 파일 활용 시 댓글 수 많은 기사에 대한 줄바꿈 문제 발생 가능성으로 json 파일 활용을 추천합니다.
+ * 
+ * @author Bomin Im
+ * @created 2025-04-07
+ * @lastUpdated 2025-04-12
+ * @see https://github.com/huhakor/news-crawler
  */
 
 // ===============================
