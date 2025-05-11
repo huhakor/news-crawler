@@ -9,8 +9,9 @@
   "license": "ISC",
   "description": "Puppeteer-based Naver News crawler",
   "dependencies": {
-    "puppeteer": "^24.6.1",
     "cli-progress": "^3.12.0",
-    "json2csv": "^6.0.0-alpha.2"  
+    "json2csv": "^6.0.0-alpha.2",
+    "p-limit": "^2.3.0",
+    "puppeteer": "^24.7.2"
   }
 }
